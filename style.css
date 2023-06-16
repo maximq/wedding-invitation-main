@@ -279,7 +279,7 @@
 
     .down-arrow {
         position: absolute;
-        top: calc(100vh - 60px);
+        top: calc(100vh - 120px);
         left: calc(50% - 14px);
         width: 0;
         height: 30px;
