@@ -57,6 +57,9 @@ const dict={
     "RK":{
         welcome: "Дорогие Рамиль и Карина!"
     },
+    "tatars":{
+        welcome: "Дорогие Дилюс и Елизавета!"
+    },
 //2
     "example":{
         welcome: "Дорогие user1, user2!",
